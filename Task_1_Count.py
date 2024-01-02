@@ -7,10 +7,3 @@ for i in x:
     if i==4:
         count+=1
 print(count)
-vowel=['a','e','i','o','u']
-total=0
-for i in X.lower():
-    if i in vowel:
-        print(f"The letter {i} is vaule at index {X.index(i)}")
-        total+=1
-print(f"The total is {total}")
